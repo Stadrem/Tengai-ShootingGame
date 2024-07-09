@@ -18,6 +18,7 @@ public class BossFireMove : MonoBehaviour
         player = GameObject.Find("Player");
 
         dir = player.transform.position;
+
         dir.Normalize();
     }
 
