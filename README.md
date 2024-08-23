@@ -3,13 +3,14 @@
 [![Video Label](http://img.youtube.com/vi/jIIftRofKJM/0.jpg)](https://youtu.be/jIIftRofKJM)
 
 메타버스 아카데미 3기
-하루만에 슈팅 게임 만들기
 
-김동수
+수업 과정 중, 하루만에 슈팅 게임 만들기 도전
+
+제작자: 김동수
 
 제작 기간 : 하루(오전 10시 ~ 오후 5시)
 
-제작툴: Unity URP
+제작툴: Unity 2022
 
 스프라이트 데이터: 유니티 에셋 스토어
 
