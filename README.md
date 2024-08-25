@@ -2,9 +2,9 @@
 
 [![Video Label](http://img.youtube.com/vi/jIIftRofKJM/0.jpg)](https://youtu.be/jIIftRofKJM)
 
-메타버스 아카데미 3기
+<h1>메타버스 아카데미 3기</h1>
 
-수업 과정 중, 하루만에 슈팅 게임 만들기
+<h2>수업 과정 중, 하루만에 슈팅 게임 만들기</h2>
 
 제작자: 김동수
 
